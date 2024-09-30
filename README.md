@@ -3,7 +3,7 @@
 UART device communication software.
 <br/>
 
-![Software-Serial-Monitor-V1](https://github.com/user-attachments/assets/c403cda2-8807-4321-ab50-99ff97c01452)
+![Software-Serial-Monitor-V1](https://github.com/user-attachments/assets/fa6f3b0a-a00a-4751-9278-dd72b691fbf6)
 <br/>
 
 Java library used:
