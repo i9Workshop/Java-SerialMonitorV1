@@ -1,2 +1,2 @@
-# Java-Serial-Monitor
+# Serial Monitor
 UART device communication software.
