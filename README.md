@@ -7,6 +7,8 @@ UART device communication software.
 <br/>
 
 Java library used:
+* JRE
+  - JavaSE-1.8
 * Fazecast
   - [jSerialComm](https://fazecast.github.io/jSerialComm/)
 <br/>
