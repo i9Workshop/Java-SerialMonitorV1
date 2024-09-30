@@ -1,4 +1,4 @@
-i9Workshop Software
+i9 Workshop Software
 
 This product was developed at i9Workshop. 
 It is distribute for prototypes without any warranty and guarantee to hardwares used. 
